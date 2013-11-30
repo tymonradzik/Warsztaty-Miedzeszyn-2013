@@ -1,2 +1,1 @@
-Warsztaty-Miedzeszyn-2013
-=========================
+To repozytorium zawiera aplikacje symulujące różne zjawiska fizyczne napisane przez uczestników warsztatów przyrodniczych w Miedzyszynie zorganizowanych przez Krajowy Fundusz na rzecz Dzieci w dniach 29 i 30 listopada 2013 roku. 
